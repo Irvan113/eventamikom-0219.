@@ -15,6 +15,6 @@ Halaman Event            :https://eventamikom-0219-main-vw58sl.free.laravel.clou
 Halaman Transaksi        :https://eventamikom-0219-main-vw58sl.free.laravel.cloud/admin/transaction
 Halaman Categories       :https://eventamikom-0219-main-vw58sl.free.laravel.cloud/admin/categories
 
-Halaman Beranda          :https://eventamikom-0219-main-vw58sl.free.laravel.cloud
-Halaman Detail Event     :https://eventamikom-0219-main-vw58sl.free.laravel.cloud/event-detail.html
-Halaman Checkout         :https://eventamikom-0219-main-vw58sl.free.laravel.cloud/checkout.html
+Halaman Beranda          :https://eventamikom-0219-main-vw58sl.free.laravel.cloud/home
+Halaman Detail Event     :https://eventamikom-0219-main-vw58sl.free.laravel.cloud/event/1
+Halaman Checkout         :https://eventamikom-0219-main-vw58sl.free.laravel.cloud/checkout
